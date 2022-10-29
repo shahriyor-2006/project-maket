@@ -100,9 +100,16 @@
 
 
 
+
 }
-
-
+.knopka{
+	text-decoration: none;
+	color: white;
+}
+.knopka2{
+	text-decoration: none;
+	color: black;
+}
 
 
 
