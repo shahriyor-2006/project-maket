@@ -532,6 +532,10 @@ textarea{
 	font-size: 15px;
 
 }
+.ssilka{
+	text-decoration: none;
+	color: white;
+}
 .linklar li a{
 	text-decoration: none;
 	color: white;
